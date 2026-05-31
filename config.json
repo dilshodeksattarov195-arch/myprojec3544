@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsfonnect",
+        "uuid": 32498480,
+        "checksum": "rjjar"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
